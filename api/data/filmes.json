@@ -1,0 +1,24 @@
+{
+    "filmes": {
+        "data": [
+            {
+                "id": "123",
+                "titulo": "Vingadores",
+                "ano": "2012",
+                "genero": "aventura"
+            },
+            {
+                "id": "124",
+                "titulo": "Jurassic World",
+                "ano": "2015",
+                "genero": "ficção"
+            },
+            {
+                "id": "125",
+                "titulo": "Liga da Justiça",
+                "ano": "2017",
+                "genero": "aventura"
+            }
+        ]
+    }
+}
